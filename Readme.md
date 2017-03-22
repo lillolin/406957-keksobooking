@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ольга](https://up.htmlacademy.ru/javascript/9/user/406957).
-* Наставник: `Неизвестно`.
+* Наставник: `Варя Степанова`.
 
 ---
 
